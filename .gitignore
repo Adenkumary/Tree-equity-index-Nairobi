@@ -1,0 +1,12 @@
+*.tif
+.env
+data/
+__pycache__/
+.venv/
+node_modules/
+.env
+dist/
+build/
+.next/
+coverage/
+.DS_Store
